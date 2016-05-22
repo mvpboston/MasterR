@@ -1,0 +1,10 @@
+#Gotta Master R!!!!!#
+Missing Values
+http://www.statmethods.net/input/missingdata.html
+
+Date Values
+http://www.statmethods.net/input/dates.html
+
+Lot of other useful R tips
+http://www.statmethods.net/management/functions.html
+
